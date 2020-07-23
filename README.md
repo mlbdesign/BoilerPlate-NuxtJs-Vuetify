@@ -1,4 +1,4 @@
-# website-pro
+# Boilerplate NuxtJs+Vuetify
 
 ## Build Setup
 
